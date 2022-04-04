@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  background-color: crimson;
+  background-color: RebeccaPurple;
   box-sizing: border-box;
 }
 .layout {
@@ -10,7 +10,7 @@
   margin: 0 auto;
   justify-content: center;
   flex-direction: column;
-  font-family: "Gloria Hallelujah", cursive;
+  font-family: 'Bebas Neue', cursive;
   align-items: center;
 }
 
